@@ -1,2 +1,2 @@
 # PizzaLazySite
-<img src="Calculator/PizzaLazy.png"/>
+<img src="PizzaLazy.png"/>
