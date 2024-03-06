@@ -1,2 +1,2 @@
-# PizzaLazySite
+# PizzaLazySite ©
 <img src="PizzaLazy.png"/>
